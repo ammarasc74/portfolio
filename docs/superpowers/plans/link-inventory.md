@@ -13,9 +13,9 @@ Verification pass: 2026-07-22.
 | 2 | [App Store — Manafith](https://apps.apple.com/sa/app/manafith-%D9%85%D9%86%D8%A7%D9%81%D8%B0/id1630305902) | Verified live | Confirmed via iTunes Search API; app "Manafith \| منافذ", bundleId `com.najm.manafeth`, developer Najm for Insurance Services | 2026-07-22 |
 | 3 | [Munaseq website](https://munaseq.ai) | Verified live | HTTP 200 | 2026-07-22 |
 | 4 | Huawei AppGallery listing — Manafith | Not found | Two targeted web searches found no public listing URL. Omit from site until a URL is provided. | 2026-07-22 |
-| 5 | GitHub profile URL | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 6 | LinkedIn profile URL | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 7 | Public email confirmation | Pending user input | User has not confirmed which email (if any) may be shown publicly. Omit from site until provided. | 2026-07-22 |
+| 5 | [GitHub profile](https://github.com/ammarasc74) | Verified live (2026-07-22) | Controller-verified live; name matches. | 2026-07-22 |
+| 6 | [LinkedIn profile](https://www.linkedin.com/in/ammar-yasser-1297971b3/) | User-provided (2026-07-22) | Provided by user. | 2026-07-22 |
+| 7 | Public email confirmation (`ammar.business24@gmail.com`) | User-provided (2026-07-22) | Provided by user; confirmed for public display. | 2026-07-22 |
 | 8 | Glogo — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
 | 9 | In House — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
 | 10 | Dentaly — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
