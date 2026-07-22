@@ -25,15 +25,16 @@ Verification pass: 2026-07-22.
 
 ## Screenshots collected
 
-| File | Source | Dimensions (final) | Notes |
-|---|---|---|---|
-| `public/screenshots/manafith/shot-1.png` | `~/Desktop/manafith-store-design/play-1080x1920/en/01.png` | 675×1200 | Branded hero/onboarding panel: "Your policy in 60 seconds" |
-| `public/screenshots/manafith/shot-2.png` | `~/Desktop/manafith-store-design/play-1080x1920/en/04.png` | 562×1000 | Real app UI: home dashboard ("Everything in one place") |
-| `public/screenshots/manafith/shot-3.png` | `~/Desktop/manafith-store-design/play-1080x1920/en/05.png` | 675×1200 | Real app UI: Saudi border-crossing map ("All border ports, one map") |
+| File | Source | Dimensions (final) | Size | Notes |
+|---|---|---|---|---|
+| `public/screenshots/manafith/shot-1.jpg` | `~/Desktop/manafith-store-design/play-1080x1920/en/01.png` | 675×1200 | 109 KB | Branded hero/onboarding panel: "Your policy in 60 seconds" |
+| `public/screenshots/manafith/shot-2.jpg` | `~/Desktop/manafith-store-design/play-1080x1920/en/04.png` | 562×1000 | 91 KB | Real app UI: home dashboard ("Everything in one place") |
+| `public/screenshots/manafith/shot-3.jpg` | `~/Desktop/manafith-store-design/play-1080x1920/en/05.png` | 675×1200 | 104 KB | Real app UI: Saudi border-crossing map ("All border ports, one map") |
 
 Originals in `~/Desktop/manafith-store-design/` are read-only source material and
-were not modified or moved; the files above are resized copies (`sips -Z`) kept
-under ~500 KB each for web delivery.
+were not modified or moved; the files above are resized copies (`sips -Z`)
+re-encoded as JPEG quality 80 (`sips -s format jpeg -s formatOptions 80`) for
+web delivery — the site uses `images.unoptimized`, so files ship as-is.
 
 ## Rules for later tasks
 
