@@ -1,14 +1,20 @@
 @import "tailwindcss";
 
 :root {
-  --background: #FDFDFB;
+  --background: #FAF9F7;
   --foreground: #171717;
+  --accent: #0B6B54;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --color-paper: #FAF9F7;
+  --color-ink: #171717;
+  --color-body: #44403C;
+  --color-muted: #666666;
+  --color-accent: #0B6B54;
+  --font-sans: var(--font-cairo);
   --font-mono: var(--font-geist-mono);
 }
 
@@ -16,4 +22,14 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+::selection {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }

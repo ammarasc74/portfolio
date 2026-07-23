@@ -1,14 +1,29 @@
-<!-- Regenerate: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless --screenshot="$PWD/public/og.png" --window-size=1200,630 --hide-scrollbars "file://$PWD/scripts/og.html" -->
+<!-- Regenerate: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless --screenshot="$PWD/public/og.png" --window-size=1200,630 --hide-scrollbars --virtual-time-budget=15000 --run-all-compositor-stages-before-draw "file://$PWD/scripts/og.html" -->
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"><style>
+<html><head><meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=block" rel="stylesheet">
+<style>
   body { margin:0; width:1200px; height:630px; display:flex; flex-direction:column;
-    justify-content:center; padding:0 90px; box-sizing:border-box;
-    background:#FDFDFB; font-family:-apple-system, Helvetica, Arial, sans-serif; }
-  h1 { font-size:64px; margin:0; color:#171717; }
-  p.role { font-size:32px; color:#1d4ed8; margin:8px 0 24px; }
-  p.line { font-size:26px; color:#525252; margin:0; max-width:900px; line-height:1.4; }
+    justify-content:center; padding:0 96px; box-sizing:border-box; position:relative;
+    background:#FAF9F7; font-family:"Cairo", Arial, Helvetica, sans-serif; }
+  .rule { width:56px; height:2px; background:#0B6B54; margin-bottom:36px; }
+  h1 { font-size:88px; font-weight:700; letter-spacing:-0.02em; line-height:1;
+    margin:0; color:#171717; }
+  p.role { font-size:24px; font-weight:600; letter-spacing:0.22em; text-transform:uppercase;
+    color:#0B6B54; margin:28px 0 0; }
+  p.line { font-size:27px; font-weight:400; color:#44403C; margin:26px 0 0;
+    max-width:900px; line-height:1.5; }
+  .frame { position:absolute; inset:28px; border:1px solid rgba(23,23,23,0.10);
+    border-radius:28px; pointer-events:none; }
+  .dot { position:absolute; right:96px; bottom:64px; width:12px; height:12px;
+    border-radius:50%; background:#0B6B54; }
 </style></head><body>
+  <div class="frame"></div>
+  <div class="rule"></div>
   <h1>Ammar Yasser</h1>
   <p class="role">React Native Developer</p>
   <p class="line">Cross-platform mobile apps, shipped — App Store &amp; Google Play.</p>
+  <div class="dot"></div>
 </body></html>

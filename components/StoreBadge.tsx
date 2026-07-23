@@ -16,10 +16,10 @@ export default function StoreBadge({ link, appName }: { link: ProjectLink; appNa
       target="_blank"
       rel="noopener noreferrer"
       aria-label={label}
-      className="inline-flex flex-col rounded-full bg-neutral-900 px-5 py-2 text-white transition hover:bg-neutral-700"
+      className="inline-flex flex-col rounded-xl bg-ink px-5 py-2 text-white transition hover:bg-body"
     >
       <span className="text-[10px] leading-tight text-neutral-300">{kicker}</span>
-      <span className="text-sm font-medium leading-tight">{name}</span>
+      <span className="text-sm font-semibold leading-tight">{name}</span>
     </a>
   );
 }
