@@ -52,7 +52,7 @@ export const projects: Project[] = [
     contribution:
       "Maintained and extended the shopping experience: checkout integration, delivery-address management, and business-driven features across iOS and Android.",
     tech: ["React Native", "Redux Toolkit", "Shopify Restyle", "Firebase"],
-    links: [],
+    links: [{ store: "web", url: "https://inhouse.sa" }],
     screenshots: [],
   },
   {
