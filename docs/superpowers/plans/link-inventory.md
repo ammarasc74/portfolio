@@ -16,12 +16,12 @@ Verification pass: 2026-07-22.
 | 5 | [GitHub profile](https://github.com/ammarasc74) | Verified live (2026-07-22) | Controller-verified live; name matches. | 2026-07-22 |
 | 6 | [LinkedIn profile](https://www.linkedin.com/in/ammar-yasser-1297971b3/) | User-provided (2026-07-22) | Provided by user. | 2026-07-22 |
 | 7 | Public email confirmation (`ammar.business24@gmail.com`) | User-provided (2026-07-22) | Provided by user; confirmed for public display. | 2026-07-22 |
-| 8 | Glogo — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 9 | In House — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 10 | Dentaly — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 11 | Life Right — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 12 | Fantasia — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
-| 13 | Aqarbot — store/web link | Pending user input | User has not answered yet. Omit from site until provided. | 2026-07-22 |
+| 8 | [App Store — Glogo](https://apps.apple.com/eg/app/glogo-your-ride-your-way/id6498920876) | Verified live (2026-07-23) | iTunes lookup: Glogo - Your Ride, Your Way, com.glogo.app | 2026-07-23 |
+| 9 | In House — store/web link | Not live | User-provided App Store link id1632879088 returns 404 / absent from US-EG-SA-AE storefront APIs (2026-07-23) — render without links | 2026-07-23 |
+| 10 | Dentaly — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
+| 11 | Life Right — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
+| 12 | Fantasia — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
+| 13 | [App Store — Aqarbot](https://apps.apple.com/eg/app/%D8%B9%D9%82%D8%A7%D8%B1-%D8%A8%D9%88%D8%AA/id6449610514) | Verified live (2026-07-23) | iTunes lookup: عقار بوت, com.aqarbot | 2026-07-23 |
 
 ## Screenshots collected
 

@@ -62,7 +62,7 @@ export const projects: Project[] = [
     contribution:
       "Implemented real-time trip tracking over socket connections and the ride status flows from request to drop-off.",
     tech: ["React Native", "Socket.IO", "REST APIs"],
-    links: [],
+    links: [{ store: "appstore", url: "https://apps.apple.com/eg/app/glogo-your-ride-your-way/id6498920876" }],
     screenshots: [],
   },
   {
@@ -102,7 +102,7 @@ export const projects: Project[] = [
     contribution:
       "Built chatbot-driven flows for clients and brokers to request and offer housing units and land.",
     tech: ["React Native", "REST APIs"],
-    links: [],
+    links: [{ store: "appstore", url: "https://apps.apple.com/eg/app/%D8%B9%D9%82%D8%A7%D8%B1-%D8%A8%D9%88%D8%AA/id6449610514" }],
     screenshots: [],
   },
 ];
