@@ -17,7 +17,7 @@ Verification pass: 2026-07-22.
 | 6 | [LinkedIn profile](https://www.linkedin.com/in/ammar-yasser-1297971b3/) | User-provided (2026-07-22) | Provided by user. | 2026-07-22 |
 | 7 | Public email confirmation (`ammar.business24@gmail.com`) | User-provided (2026-07-22) | Provided by user; confirmed for public display. | 2026-07-22 |
 | 8 | [App Store — Glogo](https://apps.apple.com/eg/app/glogo-your-ride-your-way/id6498920876) | Verified live (2026-07-23) | iTunes lookup: Glogo - Your Ride, Your Way, com.glogo.app | 2026-07-23 |
-| 9 | In House — store/web link | Verified live (2026-07-23) | web `https://inhouse.sa`, HTTP 200 (App Store listing remains delisted: user-provided App Store link id1632879088 returns 404 / absent from US-EG-SA-AE storefront APIs) | 2026-07-23 |
+| 9 | In House — store/web link | Verified live (2026-07-23) | web `https://inhouse.sa`, HTTP 200; Google Play `https://play.google.com/store/apps/details?id=com.inhouse.app`, HTTP 200, title "إن هاوس - Apps on Google Play" (App Store listing remains delisted: user-provided App Store link id1632879088 returns 404 / absent from US-EG-SA-AE storefront APIs) | 2026-07-23 |
 | 10 | Dentaly — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
 | 11 | Life Right — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
 | 12 | Fantasia — store/web link | Not on stores (final) | User confirmed 2026-07-23: MVP app, not on stores — render without links | 2026-07-23 |
